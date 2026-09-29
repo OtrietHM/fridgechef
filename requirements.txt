@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+openai>=1.0
+python-jose
+passlib[bcrypt]
+python-multipart
+pytest
+httpx
