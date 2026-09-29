@@ -1,4 +1,4 @@
-# 🧊 FridgeChef: AI-Powered Recipe Generator
+# FridgeChef: AI-Powered Recipe Generator
 
 FridgeChef generates personalized recipes from the ingredients you already have, helping reduce food waste. Built for my **NLP / AI (2026)** course.
 
